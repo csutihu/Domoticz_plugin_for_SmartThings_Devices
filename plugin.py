@@ -1,5 +1,5 @@
 """
-<plugin key="SmartThingsWasherDryer" name="Samsung SmartThings Washer/Dryer" author="csutihu" version="4.1" wikilink="https://github.com/csutihu/Domoticz_plugin_for_SmartThings_Devices">
+<plugin key="SmartThingsWasherDryer" name="Samsung SmartThings Washer/Dryer" author="csutihu" version="4.1" wikilink="https://github.com/csutihu/Domoticz_plugin_for_Smasung_Washer_Dryer">
     <description>
         <h2>Samsung SmartThings Washer/Dryer</h2>
         <p>Retrieves and displays the status (ON/OFF, cycle/job state, remaining time) of Samsung appliances via the SmartThings API.</p>
